@@ -1,4 +1,4 @@
-# 
+# Polymarket premium Algorithm: prediction-market-scanning & automated-trade-execution is the best Polymarket algorithm, featuring prediction-market-scanning and
 
 
 
